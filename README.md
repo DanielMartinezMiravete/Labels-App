@@ -13,4 +13,5 @@
 
 - The application cannot interpret LaTeX.
 - When working with multiple labels, moving a label other than the last label will replace the coordinates of the last label written.
+- Only capable of moving the text using either the mouse or the X-Y inputs individually.
 
